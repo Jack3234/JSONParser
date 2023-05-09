@@ -1,0 +1,16 @@
+{
+  "main": [
+    {
+      "country": "The Candy Kingdom",
+      "weather": "Sunny"
+    },
+    {
+      "country": "The Ice Kingdom",
+      "weather": "Snow"
+    },
+    {
+      "country": "The Fire Kingdom",
+      "weather": "Clear"
+    }
+  ]
+}
